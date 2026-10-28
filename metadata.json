@@ -1,0 +1,8 @@
+{
+  "name": "AUTO",
+  "description": "AUTO - AlinLabs Utility Technology Operations. A powerful utility platform for automated operations and version control payload delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

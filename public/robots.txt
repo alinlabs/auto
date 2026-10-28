@@ -1,0 +1,48 @@
+# Robots.txt for AUTO (Alinlabs Utility Technology Operations)
+# Created & Developed by Alvareza Hilka Pratama - AlinLabs Indonesia
+# Canonical URL: https://auto-alinlabs.vercel.app
+
+User-agent: *
+Allow: /
+
+# Google Search & Google AI (AI Overviews, Gemini)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Bing / Microsoft Copilot
+User-agent: Bingbot
+Allow: /
+
+User-agent: Copilot
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap Index
+Sitemap: https://auto-alinlabs.vercel.app/sitemap.xml
